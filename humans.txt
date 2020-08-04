@@ -2,6 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
+	Rodney Hund
+	Farzad
 
     <name> -- <role> -- <twitter>
 
