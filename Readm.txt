@@ -1,3 +1,4 @@
 #Copyright section
 Git Training
 Modified
+Modified when the other branch was modified
