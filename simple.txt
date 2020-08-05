@@ -1,2 +1,7 @@
 my new changes made on master branch today
+<<<<<<< HEAD
 I add this trouble on master
+=======
+
+I add this line on bigTrouble
+>>>>>>> adding some trouble on simple.txt
