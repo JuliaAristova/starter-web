@@ -8,5 +8,10 @@ I add this line on bigTrouble
 
 I added in here after rebase
 Yes 
+<<<<<<< HEAD
 
 I add this line remotely
+=======
+11  line - local changes
+11  line - local changes
+>>>>>>> local changes
