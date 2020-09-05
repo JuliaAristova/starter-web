@@ -1,17 +1,1 @@
-my new changes made on master branch today
-<<<<<<< HEAD
-I add this trouble on master
-=======
-
-I add this line on bigTrouble
->>>>>>> adding some trouble on simple.txt
-
-I added in here after rebase
-Yes 
-<<<<<<< HEAD
-
-I add this line remotely
-=======
-11  line - local changes
-11  line - local changes
->>>>>>> local changes
+I do this changes on myFeature branch
